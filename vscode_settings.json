@@ -1,0 +1,47 @@
+{
+  "editor.minimap.enabled": false,
+
+  "window.autoDetectColorScheme": true,
+
+  "editor.wordWrap": "on",
+
+  "workbench.preferredDarkColorTheme": "Winter is Coming (Dark Blue - No Italics)",
+
+  "editor.fontSize": 14,
+
+  "security.workspace.trust.untrustedFiles": "open",
+
+  "terminal.integrated.fontSize": 15,
+
+  "editor.tabSize": 4,
+
+  "editor.insertSpaces": true,
+
+  "editor.detectIndentation": false,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "editor.formatOnPaste": true,
+
+  "editor.formatOnSave": true,
+
+  "window.zoomLevel": 0.4,
+
+  "debug.disassemblyView.showSourceCode": false,
+
+  "workbench.editor.wrapTabs": true,
+
+  "diffEditor.renderSideBySide": false,
+
+  "workbench.colorCustomizations": {
+    "tab.activeBorder": "#00ffff",
+    "tab.border": "#ffffff",
+    "tab.unfocusedInactiveForeground": "#ffffffaf",
+    "tab.inactiveForeground": "#ffffffaf"
+    //   uncomment the above stylings
+    //   "tab.activeBackground": "#ffffff"
+    //   "tab.inactiveBackground": "#ff0000",
+  }
+
+  //   "editor.quickSuggestionsDelay": 10000
+}
